@@ -2,7 +2,7 @@
 	"name": "codescope",
 	"displayName": "CodeScope",
 	"description": "Helps new programmers learn what some words in their code mean",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.46.0"
 	},

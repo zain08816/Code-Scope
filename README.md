@@ -4,7 +4,7 @@ Trying to read code in a language you dont understand? This extension can help y
 
 ## How to use
 
-Select a keyword or function name you want to learn more about and press `Shift+Cmd+P` and type in `Code Scope`. This will pull up an alert at the top of your screen if the selected text is a recognized keyword. Click `open` to learn more!
+Select a keyword or function name you want to learn more about and press `Shift+Cmd+P` and type in `Scope It`. This will pull up an alert at the top of your screen if the selected text is a recognized keyword. Click `open` to learn more!
 
 
 ## Release Notes
